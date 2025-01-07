@@ -1,0 +1,38 @@
+#title {
+    font-size: 400%;
+    width: 60vw;
+}
+
+.center {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+#image {
+    max-width: 70%;
+    height: auto;
+    display: block;
+}
+
+@media only screen and (min-width: 480px) {
+    /* Add styles for small screens */
+}
+
+@media only screen and (min-width: 767px) {
+    /* Add styles for medium screens */
+}
+
+@media only screen and (min-width: 991px) {
+    /* Add styles for larger screens */
+}
+
+@media only screen and (min-width: 1200px) {
+    .font {
+        padding: 0 200px 15px 200px;
+    }
+}
+
+@media (orientation: landscape) {
+    /* Add styles for landscape orientation */
+}
